@@ -18,8 +18,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="560">
-                  <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+                <state relative-caret-position="300">
+                  <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -40,8 +40,17 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/js_main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="571">
-                  <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+                <state relative-caret-position="-290">
+                  <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#62#93#0" />
+                    <element signature="e#263#303#0" />
+                    <element signature="e#479#517#0" />
+                    <element signature="e#650#688#0" />
+                    <element signature="e#1017#1053#0" />
+                    <element signature="e#1358#1399#0" />
+                    <element signature="e#1568#1598#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -117,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560600952779</updated>
-      <workItem from="1560600954254" duration="5596000" />
+      <workItem from="1560600954254" duration="8303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5596000" />
+    <option name="totallyTimeSpent" value="8303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -162,15 +171,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="300">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/js_main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        <state relative-caret-position="-290">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding>
+            <element signature="e#62#93#0" />
+            <element signature="e#263#303#0" />
+            <element signature="e#479#517#0" />
+            <element signature="e#650#688#0" />
+            <element signature="e#1017#1053#0" />
+            <element signature="e#1358#1399#0" />
+            <element signature="e#1568#1598#0" />
+          </folding>
         </state>
       </provider>
     </entry>
