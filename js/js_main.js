@@ -3,7 +3,7 @@
 $(document).ready(function () {
 
     /**         $  это объект jQuery     */
-    
+
     /**         ОБРАЩАЕМСЯ ПО СЕЛЕКТОРЫ*/
                     //$(' ')
     /**        СЕЛЕКТОРЫ        */
@@ -76,17 +76,5 @@ $(document).ready(function () {
     /**     ВЫБИРАЕМ siblings() СОСЕДЕЙ ЭЛЕМЕНТА (на одном уровне)*/
     //$('#second-list-item').siblings().addClass('selected');
     //$('#second-list-item').siblings('.green').addClass('selected'); // конкретно какие соседи
-
-
-
-
-
-
-
-
-
-
-
-
 
 });
