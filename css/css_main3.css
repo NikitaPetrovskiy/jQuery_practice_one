@@ -1,16 +1,25 @@
 body{
     margin:10px;
-    padding:10px;
+    padding:20px;
 }
 .logo{
     margin-bottom: 10px;
     width: 350px;
     height: 150px;
 }
-.selected{
-    border: 5px solid #EC1919;
-    padding: 5px;
+#testBox {
+    width: 400px;
+    height: 100px;
+    display: block;
+    background-color: #8d6e63;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
-.green{
-    color: #057F13;
+.greenBg {
+    background-color: #43A047;
 }
