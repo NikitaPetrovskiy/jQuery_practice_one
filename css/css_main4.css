@@ -1,0 +1,29 @@
+body{
+    margin:10px;
+    padding:20px;
+}
+button {
+    margin: 5px;
+    padding: 5px;
+}
+.logo{
+    margin-bottom: 10px;
+    width: 350px;
+    height: 150px;
+}
+#testBox {
+    width: 350px;
+    height: 50px;
+    display: block;
+    background-color: #8d6e63;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.greenBg {
+    background-color: #43A047 !important;
+}
