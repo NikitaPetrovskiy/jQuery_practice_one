@@ -16,10 +16,14 @@ body{
     width: 350px;
     height: 170px;
     display: block;
-    background-color: #8d6e63;
+    background-color: gray;
     margin-top: 20px;
     padding: 15px;
     margin-bottom: 20px;
+}
+#sumResult {
+    color: white;
+    font-size: 30px;
 }
 .greenBg {
     background-color: #43A047 !important;
