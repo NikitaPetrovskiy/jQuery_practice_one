@@ -1,0 +1,26 @@
+body{
+    margin:10px;
+    padding:20px;
+}
+#button {
+    margin: 5px;
+    padding: 15px;
+    width: 100px;
+}
+.logo{
+    margin-bottom: 10px;
+    width: 350px;
+    height: 150px;
+}
+#formSum {
+    width: 350px;
+    height: 170px;
+    display: block;
+    background-color: #8d6e63;
+    margin-top: 20px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.greenBg {
+    background-color: #43A047 !important;
+}
