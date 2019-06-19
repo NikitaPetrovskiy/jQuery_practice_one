@@ -29,3 +29,16 @@ h2 {
     padding: 5px;
     width: 350px;
 }
+.pinkBorder {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 4px solid pink;
+}
+.blueBorder {
+    padding: 5px;
+    border: 4px solid blue;
+}
+.greenBorder {
+    padding: 5px;
+    border: 4px solid green;
+}
